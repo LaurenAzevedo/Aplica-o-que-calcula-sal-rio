@@ -75,6 +75,9 @@ Na tela principal, o usuário insere seu salário, clica no botão que se encaix
 
 <img src="https://github.com/user-attachments/assets/664327c1-f4d0-4728-a714-af10cda7519d" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/Aplica-o-que-calcula-sal-rio/blob/main/salario.apk"> Download APK </a>
 
 # 📄 Licença
 
